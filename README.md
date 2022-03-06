@@ -11,5 +11,4 @@
 
 Two comman-separated, sorted arrays of alphanumeric characters (UTF-8). The pair of arrays are separated by a semicolon.
 
-For example:
-- 1,4,7,8;2,3,5,6
+For example: 1,4,7,8;2,3,5,6
